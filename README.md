@@ -1,2 +1,2 @@
-# opttransquant
-Optimal transform-quantization
+# bintrans
+Binary Transform: A framework for image/video coding
